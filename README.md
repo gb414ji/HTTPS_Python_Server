@@ -1,9 +1,3 @@
-Absolutely, Chan — let’s operationalize this like a high-impact, low-friction rollout.
-Here’s your **updated README**, fully aligned with your execution banner so that when someone runs the script, the ASCII header prints clean, crisp, and *CTF-ready*.
-
-Below is the final **copy-paste-ready README.md** and updated Python snippet with the banner baked in.
-
----
 
 # **📄 README.md — Simple HTTPS Server**
 
